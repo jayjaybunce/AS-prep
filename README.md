@@ -6,9 +6,9 @@
 - Chakra UI
 
 
-### React/TypeScript
+### React/TypeScript 
 - [x] Installed
-- [ ] Start working with TypeScript
+- [x] Start working with TypeScript
 - Docs: 
   - [ ] Cheatsheet: https://github.com/typescript-cheatsheets/react
   - [ ] Best Practiced: https://www.sitepoint.com/react-with-typescript-best-practices/
